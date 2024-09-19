@@ -1,5 +1,4 @@
-# Data
-Master/Common Data
+# Data | Master/Common Data
 A wide range of data, including all banks and districts of Bangladesh, is available in JSON format. More datasets will be added, and contributions to this project are highly encouraged! Feel free to contribute data in other formats as well. Thank you!
 
 # Bangladesh Districts
