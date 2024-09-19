@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Rocket",
+    "entity": "Dutch Bangla Bank Ltd."
+  },
+  {
+    "id": 2,
+    "name": "bKash",
+    "entity": "bKash Ltd."
+  },
+  {
+    "id": 3,
+    "name": "Nagad",
+    "entity": "Bangladesh Post office (with interim approval of BB)"
+  },
+  {
+    "id": 4,
+    "name": "MYCash",
+    "entity": "Mercantile Bank Ltd."
+  },
+  {
+    "id": 5,
+    "name": "Islami Bank mCash",
+    "entity": "Islami Bank Bangladesh Ltd."
+  },
+  {
+    "id": 6,
+    "name": "Trust Axiata pay: tap",
+    "entity": "Trust Axiata Digital Ltd."
+  },
+  {
+    "id": 7,
+    "name": "FirstCash",
+    "entity": "First Security Islami Bank Ltd."
+  },
+  {
+    "id": 8,
+    "name": "উপায় (Upay)",
+    "entity": "UCB Fintech Company Ltd."
+  },
+  {
+    "id": 9,
+    "name": "OK Wallet",
+    "entity": "One Bank Ltd."
+  },
+  {
+    "id": 10,
+    "name": "Rupali Bank",
+    "entity": "Rupali Bank Ltd."
+  },
+  {
+    "id": 11,
+    "name": "TeleCash",
+    "entity": "Southeast Bank Ltd."
+  },
+  {
+    "id": 12,
+    "name": "Islamic Wallet",
+    "entity": "Al-Arafah Islami Bank Ltd."
+  },
+  {
+    "id": 13,
+    "name": "Meghna Pay",
+    "entity": "Meghna Bank Ltd"
+  }
+]
