@@ -1,0 +1,2225 @@
+[
+  {
+    "id": 2,
+    "name": "Afghanistan",
+    "code": "AF",
+    "capital": "Kabul",
+    "currency": null,
+    "lat": "33",
+    "lng": "65"
+  },
+  {
+    "id": 5,
+    "name": "Åland Islands",
+    "code": "AX",
+    "capital": "Mariehamn",
+    "currency": null,
+    "lat": "60.116667",
+    "lng": "19.9"
+  },
+  {
+    "id": 6,
+    "name": "Albania",
+    "code": "AL",
+    "capital": "Tirana",
+    "currency": null,
+    "lat": "41",
+    "lng": "20"
+  },
+  {
+    "id": 64,
+    "name": "Algeria",
+    "code": "DZ",
+    "capital": "Algiers",
+    "currency": null,
+    "lat": "28",
+    "lng": "3"
+  },
+  {
+    "id": 11,
+    "name": "American Samoa",
+    "code": "AS",
+    "capital": "Pago Pago",
+    "currency": null,
+    "lat": "-14.33333333",
+    "lng": "-170"
+  },
+  {
+    "id": 7,
+    "name": "Andorra",
+    "code": "AD",
+    "capital": "Andorra la Vella",
+    "currency": null,
+    "lat": "42.5",
+    "lng": "1.5"
+  },
+  {
+    "id": 3,
+    "name": "Angola",
+    "code": "AO",
+    "capital": "Luanda",
+    "currency": null,
+    "lat": "-12.5",
+    "lng": "18.5"
+  },
+  {
+    "id": 4,
+    "name": "Anguilla",
+    "code": "AI",
+    "capital": "The Valley",
+    "currency": null,
+    "lat": "18.25",
+    "lng": "-63.16666666"
+  },
+  {
+    "id": 12,
+    "name": "Antarctica",
+    "code": "AQ",
+    "capital": null,
+    "currency": null,
+    "lat": "-90",
+    "lng": "0"
+  },
+  {
+    "id": 14,
+    "name": "Antigua and Barbuda",
+    "code": "AG",
+    "capital": "Saint John's",
+    "currency": null,
+    "lat": "17.05",
+    "lng": "-61.8"
+  },
+  {
+    "id": 9,
+    "name": "Argentina",
+    "code": "AR",
+    "capital": "Buenos Aires",
+    "currency": null,
+    "lat": "-34",
+    "lng": "-64"
+  },
+  {
+    "id": 10,
+    "name": "Armenia",
+    "code": "AM",
+    "capital": "Yerevan",
+    "currency": null,
+    "lat": "40",
+    "lng": "45"
+  },
+  {
+    "id": 1,
+    "name": "Aruba",
+    "code": "AW",
+    "capital": "Oranjestad",
+    "currency": null,
+    "lat": "12.5",
+    "lng": "-69.96666666"
+  },
+  {
+    "id": 15,
+    "name": "Australia",
+    "code": "AU",
+    "capital": "Canberra",
+    "currency": null,
+    "lat": "-27",
+    "lng": "133"
+  },
+  {
+    "id": 16,
+    "name": "Austria",
+    "code": "AT",
+    "capital": "Vienna",
+    "currency": null,
+    "lat": "47.33333333",
+    "lng": "13.33333333"
+  },
+  {
+    "id": 17,
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "capital": "Baku",
+    "currency": null,
+    "lat": "40.5",
+    "lng": "47.5"
+  },
+  {
+    "id": 25,
+    "name": "Bahamas",
+    "code": "BS",
+    "capital": "Nassau",
+    "currency": null,
+    "lat": "24.25",
+    "lng": "-76"
+  },
+  {
+    "id": 24,
+    "name": "Bahrain",
+    "code": "BH",
+    "capital": "Manama",
+    "currency": null,
+    "lat": "26",
+    "lng": "50.55"
+  },
+  {
+    "id": 22,
+    "name": "Bangladesh",
+    "code": "BD",
+    "capital": "Dhaka",
+    "currency": "BDT",
+    "lat": "24",
+    "lng": "90"
+  },
+  {
+    "id": 33,
+    "name": "Barbados",
+    "code": "BB",
+    "capital": "Bridgetown",
+    "currency": null,
+    "lat": "13.16666666",
+    "lng": "-59.53333333"
+  },
+  {
+    "id": 28,
+    "name": "Belarus",
+    "code": "BY",
+    "capital": "Minsk",
+    "currency": null,
+    "lat": "53",
+    "lng": "28"
+  },
+  {
+    "id": 19,
+    "name": "Belgium",
+    "code": "BE",
+    "capital": "Brussels",
+    "currency": null,
+    "lat": "50.83333333",
+    "lng": "4"
+  },
+  {
+    "id": 29,
+    "name": "Belize",
+    "code": "BZ",
+    "capital": "Belmopan",
+    "currency": null,
+    "lat": "17.25",
+    "lng": "-88.75"
+  },
+  {
+    "id": 20,
+    "name": "Benin",
+    "code": "BJ",
+    "capital": "Porto-Novo",
+    "currency": null,
+    "lat": "9.5",
+    "lng": "2.25"
+  },
+  {
+    "id": 30,
+    "name": "Bermuda",
+    "code": "BM",
+    "capital": "Hamilton",
+    "currency": null,
+    "lat": "32.33333333",
+    "lng": "-64.75"
+  },
+  {
+    "id": 35,
+    "name": "Bhutan",
+    "code": "BT",
+    "capital": "Thimphu",
+    "currency": null,
+    "lat": "27.5",
+    "lng": "90.5"
+  },
+  {
+    "id": 31,
+    "name": "Bolivia",
+    "code": "BO",
+    "capital": "Sucre",
+    "currency": null,
+    "lat": "-17",
+    "lng": "-65"
+  },
+  {
+    "id": 26,
+    "name": "Bosnia and Herzegovina",
+    "code": "BA",
+    "capital": "Sarajevo",
+    "currency": null,
+    "lat": "44",
+    "lng": "18"
+  },
+  {
+    "id": 37,
+    "name": "Botswana",
+    "code": "BW",
+    "capital": "Gaborone",
+    "currency": null,
+    "lat": "-22",
+    "lng": "24"
+  },
+  {
+    "id": 36,
+    "name": "Bouvet Island",
+    "code": "BV",
+    "capital": null,
+    "currency": null,
+    "lat": "-54.43333333",
+    "lng": "3.4"
+  },
+  {
+    "id": 32,
+    "name": "Brazil",
+    "code": "BR",
+    "capital": "Brasília",
+    "currency": null,
+    "lat": "-10",
+    "lng": "-55"
+  },
+  {
+    "id": 104,
+    "name": "British Indian Ocean Territory",
+    "code": "IO",
+    "capital": "Diego Garcia",
+    "currency": null,
+    "lat": "-6",
+    "lng": "71.5"
+  },
+  {
+    "id": 238,
+    "name": "British Virgin Islands",
+    "code": "VG",
+    "capital": "Road Town",
+    "currency": null,
+    "lat": "18.431383",
+    "lng": "-64.62305"
+  },
+  {
+    "id": 34,
+    "name": "Brunei",
+    "code": "BN",
+    "capital": "Bandar Seri Begawan",
+    "currency": null,
+    "lat": "4.5",
+    "lng": "114.66666666"
+  },
+  {
+    "id": 23,
+    "name": "Bulgaria",
+    "code": "BG",
+    "capital": "Sofia",
+    "currency": "EUR",
+    "lat": "43",
+    "lng": "25"
+  },
+  {
+    "id": 21,
+    "name": "Burkina Faso",
+    "code": "BF",
+    "capital": "Ouagadougou",
+    "currency": null,
+    "lat": "13",
+    "lng": "-2"
+  },
+  {
+    "id": 18,
+    "name": "Burundi",
+    "code": "BI",
+    "capital": "Bujumbura",
+    "currency": null,
+    "lat": "-3.5",
+    "lng": "30"
+  },
+  {
+    "id": 118,
+    "name": "Cambodia",
+    "code": "KH",
+    "capital": "Phnom Penh",
+    "currency": null,
+    "lat": "13",
+    "lng": "105"
+  },
+  {
+    "id": 45,
+    "name": "Cameroon",
+    "code": "CM",
+    "capital": "Yaoundé",
+    "currency": null,
+    "lat": "6",
+    "lng": "12"
+  },
+  {
+    "id": 39,
+    "name": "Canada",
+    "code": "CA",
+    "capital": "Ottawa",
+    "currency": null,
+    "lat": "60",
+    "lng": "-95"
+  },
+  {
+    "id": 51,
+    "name": "Cape Verde",
+    "code": "CV",
+    "capital": "Praia",
+    "currency": null,
+    "lat": "16",
+    "lng": "-24"
+  },
+  {
+    "id": 56,
+    "name": "Cayman Islands",
+    "code": "KY",
+    "capital": "George Town",
+    "currency": null,
+    "lat": "19.5",
+    "lng": "-80.5"
+  },
+  {
+    "id": 38,
+    "name": "Central African Republic",
+    "code": "CF",
+    "capital": "Bangui",
+    "currency": null,
+    "lat": "7",
+    "lng": "21"
+  },
+  {
+    "id": 215,
+    "name": "Chad",
+    "code": "TD",
+    "capital": "N'Djamena",
+    "currency": null,
+    "lat": "15",
+    "lng": "19"
+  },
+  {
+    "id": 42,
+    "name": "Chile",
+    "code": "CL",
+    "capital": "Santiago",
+    "currency": null,
+    "lat": "-30",
+    "lng": "-71"
+  },
+  {
+    "id": 43,
+    "name": "China",
+    "code": "CN",
+    "capital": "Beijing",
+    "currency": null,
+    "lat": "35",
+    "lng": "105"
+  },
+  {
+    "id": 55,
+    "name": "Christmas Island",
+    "code": "CX",
+    "capital": "Flying Fish Cove",
+    "currency": null,
+    "lat": "-10.5",
+    "lng": "105.66666666"
+  },
+  {
+    "id": 40,
+    "name": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "capital": "West Island",
+    "currency": null,
+    "lat": "-12.5",
+    "lng": "96.83333333"
+  },
+  {
+    "id": 49,
+    "name": "Colombia",
+    "code": "CO",
+    "capital": "Bogotá",
+    "currency": null,
+    "lat": "4",
+    "lng": "-72"
+  },
+  {
+    "id": 50,
+    "name": "Comoros",
+    "code": "KM",
+    "capital": "Moroni",
+    "currency": null,
+    "lat": "-12.16666666",
+    "lng": "44.25"
+  },
+  {
+    "id": 48,
+    "name": "Cook Islands",
+    "code": "CK",
+    "capital": "Avarua",
+    "currency": null,
+    "lat": "-21.23333333",
+    "lng": "-159.76666666"
+  },
+  {
+    "id": 52,
+    "name": "Costa Rica",
+    "code": "CR",
+    "capital": "San José",
+    "currency": null,
+    "lat": "10",
+    "lng": "-84"
+  },
+  {
+    "id": 98,
+    "name": "Croatia",
+    "code": "HR",
+    "capital": "Zagreb",
+    "currency": null,
+    "lat": "45.16666666",
+    "lng": "15.5"
+  },
+  {
+    "id": 53,
+    "name": "Cuba",
+    "code": "CU",
+    "capital": "Havana",
+    "currency": null,
+    "lat": "21.5",
+    "lng": "-80"
+  },
+  {
+    "id": 54,
+    "name": "Curaçao",
+    "code": "CW",
+    "capital": "Willemstad",
+    "currency": null,
+    "lat": "12.116667",
+    "lng": "-68.933333"
+  },
+  {
+    "id": 57,
+    "name": "Cyprus",
+    "code": "CY",
+    "capital": "Nicosia",
+    "currency": null,
+    "lat": "35",
+    "lng": "33"
+  },
+  {
+    "id": 58,
+    "name": "Czech Republic",
+    "code": "CZ",
+    "capital": "Prague",
+    "currency": null,
+    "lat": "49.75",
+    "lng": "15.5"
+  },
+  {
+    "id": 62,
+    "name": "Denmark",
+    "code": "DK",
+    "capital": "Copenhagen",
+    "currency": null,
+    "lat": "56",
+    "lng": "10"
+  },
+  {
+    "id": 60,
+    "name": "Djibouti",
+    "code": "DJ",
+    "capital": "Djibouti",
+    "currency": null,
+    "lat": "11.5",
+    "lng": "43"
+  },
+  {
+    "id": 61,
+    "name": "Dominica",
+    "code": "DM",
+    "capital": "Roseau",
+    "currency": null,
+    "lat": "15.41666666",
+    "lng": "-61.33333333"
+  },
+  {
+    "id": 63,
+    "name": "Dominican Republic",
+    "code": "DO",
+    "capital": "Santo Domingo",
+    "currency": null,
+    "lat": "19",
+    "lng": "-70.66666666"
+  },
+  {
+    "id": 46,
+    "name": "DR Congo",
+    "code": "CD",
+    "capital": "Kinshasa",
+    "currency": null,
+    "lat": "0",
+    "lng": "25"
+  },
+  {
+    "id": 65,
+    "name": "Ecuador",
+    "code": "EC",
+    "capital": "Quito",
+    "currency": null,
+    "lat": "-2",
+    "lng": "-77.5"
+  },
+  {
+    "id": 66,
+    "name": "Egypt",
+    "code": "EG",
+    "capital": "Cairo",
+    "currency": null,
+    "lat": "27",
+    "lng": "30"
+  },
+  {
+    "id": 199,
+    "name": "El Salvador",
+    "code": "SV",
+    "capital": "San Salvador",
+    "currency": null,
+    "lat": "13.83333333",
+    "lng": "-88.91666666"
+  },
+  {
+    "id": 88,
+    "name": "Equatorial Guinea",
+    "code": "GQ",
+    "capital": "Malabo",
+    "currency": null,
+    "lat": "2",
+    "lng": "10"
+  },
+  {
+    "id": 67,
+    "name": "Eritrea",
+    "code": "ER",
+    "capital": "Asmara",
+    "currency": null,
+    "lat": "15",
+    "lng": "39"
+  },
+  {
+    "id": 70,
+    "name": "Estonia",
+    "code": "EE",
+    "capital": "Tallinn",
+    "currency": null,
+    "lat": "59",
+    "lng": "26"
+  },
+  {
+    "id": 71,
+    "name": "Ethiopia",
+    "code": "ET",
+    "capital": "Addis Ababa",
+    "currency": null,
+    "lat": "8",
+    "lng": "38"
+  },
+  {
+    "id": 74,
+    "name": "Falkland Islands",
+    "code": "FK",
+    "capital": "Stanley",
+    "currency": null,
+    "lat": "-51.75",
+    "lng": "-59"
+  },
+  {
+    "id": 76,
+    "name": "Faroe Islands",
+    "code": "FO",
+    "capital": "Tórshavn",
+    "currency": null,
+    "lat": "62",
+    "lng": "-7"
+  },
+  {
+    "id": 73,
+    "name": "Fiji",
+    "code": "FJ",
+    "capital": "Suva",
+    "currency": null,
+    "lat": "-18",
+    "lng": "175"
+  },
+  {
+    "id": 72,
+    "name": "Finland",
+    "code": "FI",
+    "capital": "Helsinki",
+    "currency": null,
+    "lat": "64",
+    "lng": "26"
+  },
+  {
+    "id": 75,
+    "name": "France",
+    "code": "FR",
+    "capital": "Paris",
+    "currency": null,
+    "lat": "46",
+    "lng": "2"
+  },
+  {
+    "id": 93,
+    "name": "French Guiana",
+    "code": "GF",
+    "capital": "Cayenne",
+    "currency": null,
+    "lat": "4",
+    "lng": "-53"
+  },
+  {
+    "id": 185,
+    "name": "French Polynesia",
+    "code": "PF",
+    "capital": "Papeetē",
+    "currency": null,
+    "lat": "-15",
+    "lng": "-140"
+  },
+  {
+    "id": 13,
+    "name": "French Southern and Antarctic Lands",
+    "code": "TF",
+    "capital": "Port-aux-Français",
+    "currency": null,
+    "lat": "-49.25",
+    "lng": "69.167"
+  },
+  {
+    "id": 78,
+    "name": "Gabon",
+    "code": "GA",
+    "capital": "Libreville",
+    "currency": null,
+    "lat": "-1",
+    "lng": "11.75"
+  },
+  {
+    "id": 86,
+    "name": "Gambia",
+    "code": "GM",
+    "capital": "Banjul",
+    "currency": null,
+    "lat": "13.46666666",
+    "lng": "-16.56666666"
+  },
+  {
+    "id": 80,
+    "name": "Georgia",
+    "code": "GE",
+    "capital": "Tbilisi",
+    "currency": null,
+    "lat": "42",
+    "lng": "43.5"
+  },
+  {
+    "id": 59,
+    "name": "Germany",
+    "code": "DE",
+    "capital": "Berlin",
+    "currency": null,
+    "lat": "51",
+    "lng": "9"
+  },
+  {
+    "id": 82,
+    "name": "Ghana",
+    "code": "GH",
+    "capital": "Accra",
+    "currency": null,
+    "lat": "8",
+    "lng": "-2"
+  },
+  {
+    "id": 83,
+    "name": "Gibraltar",
+    "code": "GI",
+    "capital": "Gibraltar",
+    "currency": null,
+    "lat": "36.13333333",
+    "lng": "-5.35"
+  },
+  {
+    "id": 89,
+    "name": "Greece",
+    "code": "GR",
+    "capital": "Athens",
+    "currency": null,
+    "lat": "39",
+    "lng": "22"
+  },
+  {
+    "id": 91,
+    "name": "Greenland",
+    "code": "GL",
+    "capital": "Nuuk",
+    "currency": null,
+    "lat": "72",
+    "lng": "-40"
+  },
+  {
+    "id": 90,
+    "name": "Grenada",
+    "code": "GD",
+    "capital": "St. George's",
+    "currency": null,
+    "lat": "12.11666666",
+    "lng": "-61.66666666"
+  },
+  {
+    "id": 85,
+    "name": "Guadeloupe",
+    "code": "GP",
+    "capital": "Basse-Terre",
+    "currency": null,
+    "lat": "16.25",
+    "lng": "-61.583333"
+  },
+  {
+    "id": 94,
+    "name": "Guam",
+    "code": "GU",
+    "capital": "Hagåtña",
+    "currency": null,
+    "lat": "13.46666666",
+    "lng": "144.78333333"
+  },
+  {
+    "id": 92,
+    "name": "Guatemala",
+    "code": "GT",
+    "capital": "Guatemala City",
+    "currency": null,
+    "lat": "15.5",
+    "lng": "-90.25"
+  },
+  {
+    "id": 81,
+    "name": "Guernsey",
+    "code": "GG",
+    "capital": "St. Peter Port",
+    "currency": null,
+    "lat": "49.46666666",
+    "lng": "-2.58333333"
+  },
+  {
+    "id": 84,
+    "name": "Guinea",
+    "code": "GN",
+    "capital": "Conakry",
+    "currency": null,
+    "lat": "11",
+    "lng": "-10"
+  },
+  {
+    "id": 87,
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "capital": "Bissau",
+    "currency": null,
+    "lat": "12",
+    "lng": "-15"
+  },
+  {
+    "id": 95,
+    "name": "Guyana",
+    "code": "GY",
+    "capital": "Georgetown",
+    "currency": null,
+    "lat": "5",
+    "lng": "-59"
+  },
+  {
+    "id": 99,
+    "name": "Haiti",
+    "code": "HT",
+    "capital": "Port-au-Prince",
+    "currency": null,
+    "lat": "19",
+    "lng": "-72.41666666"
+  },
+  {
+    "id": 97,
+    "name": "Honduras",
+    "code": "HN",
+    "capital": "Tegucigalpa",
+    "currency": null,
+    "lat": "15",
+    "lng": "-86.5"
+  },
+  {
+    "id": 96,
+    "name": "Hong Kong",
+    "code": "HK",
+    "capital": "City of Victoria",
+    "currency": null,
+    "lat": "22.267",
+    "lng": "114.188"
+  },
+  {
+    "id": 100,
+    "name": "Hungary",
+    "code": "HU",
+    "capital": "Budapest",
+    "currency": null,
+    "lat": "47",
+    "lng": "20"
+  },
+  {
+    "id": 108,
+    "name": "Iceland",
+    "code": "IS",
+    "capital": "Reykjavik",
+    "currency": null,
+    "lat": "65",
+    "lng": "-18"
+  },
+  {
+    "id": 103,
+    "name": "India",
+    "code": "IN",
+    "capital": "New Delhi",
+    "currency": null,
+    "lat": "20",
+    "lng": "77"
+  },
+  {
+    "id": 101,
+    "name": "Indonesia",
+    "code": "ID",
+    "capital": "Jakarta",
+    "currency": null,
+    "lat": "-5",
+    "lng": "120"
+  },
+  {
+    "id": 106,
+    "name": "Iran",
+    "code": "IR",
+    "capital": "Tehran",
+    "currency": null,
+    "lat": "32",
+    "lng": "53"
+  },
+  {
+    "id": 107,
+    "name": "Iraq",
+    "code": "IQ",
+    "capital": "Baghdad",
+    "currency": null,
+    "lat": "33",
+    "lng": "44"
+  },
+  {
+    "id": 105,
+    "name": "Ireland",
+    "code": "IE",
+    "capital": "Dublin",
+    "currency": null,
+    "lat": "53",
+    "lng": "-8"
+  },
+  {
+    "id": 102,
+    "name": "Isle of Man",
+    "code": "IM",
+    "capital": "Douglas",
+    "currency": null,
+    "lat": "54.25",
+    "lng": "-4.5"
+  },
+  {
+    "id": 109,
+    "name": "Israel",
+    "code": "IL",
+    "capital": "Jerusalem",
+    "currency": null,
+    "lat": "31.47",
+    "lng": "35.13"
+  },
+  {
+    "id": 110,
+    "name": "Italy",
+    "code": "IT",
+    "capital": "Rome",
+    "currency": null,
+    "lat": "42.83333333",
+    "lng": "12.83333333"
+  },
+  {
+    "id": 44,
+    "name": "Ivory Coast",
+    "code": "CI",
+    "capital": "Yamoussoukro",
+    "currency": null,
+    "lat": "8",
+    "lng": "-5"
+  },
+  {
+    "id": 111,
+    "name": "Jamaica",
+    "code": "JM",
+    "capital": "Kingston",
+    "currency": null,
+    "lat": "18.25",
+    "lng": "-77.5"
+  },
+  {
+    "id": 114,
+    "name": "Japan",
+    "code": "JP",
+    "capital": "Tokyo",
+    "currency": null,
+    "lat": "36",
+    "lng": "138"
+  },
+  {
+    "id": 112,
+    "name": "Jersey",
+    "code": "JE",
+    "capital": "Saint Helier",
+    "currency": null,
+    "lat": "49.25",
+    "lng": "-2.16666666"
+  },
+  {
+    "id": 113,
+    "name": "Jordan",
+    "code": "JO",
+    "capital": "Amman",
+    "currency": null,
+    "lat": "31",
+    "lng": "36"
+  },
+  {
+    "id": 115,
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "capital": "Astana",
+    "currency": null,
+    "lat": "48",
+    "lng": "68"
+  },
+  {
+    "id": 116,
+    "name": "Kenya",
+    "code": "KE",
+    "capital": "Nairobi",
+    "currency": null,
+    "lat": "1",
+    "lng": "38"
+  },
+  {
+    "id": 119,
+    "name": "Kiribati",
+    "code": "KI",
+    "capital": "South Tarawa",
+    "currency": null,
+    "lat": "1.41666666",
+    "lng": "173"
+  },
+  {
+    "id": 122,
+    "name": "Kosovo",
+    "code": "XK",
+    "capital": "Pristina",
+    "currency": null,
+    "lat": "42.666667",
+    "lng": "21.166667"
+  },
+  {
+    "id": 123,
+    "name": "Kuwait",
+    "code": "KW",
+    "capital": "Kuwait City",
+    "currency": null,
+    "lat": "29.5",
+    "lng": "45.75"
+  },
+  {
+    "id": 117,
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "capital": "Bishkek",
+    "currency": null,
+    "lat": "41",
+    "lng": "75"
+  },
+  {
+    "id": 124,
+    "name": "Laos",
+    "code": "LA",
+    "capital": "Vientiane",
+    "currency": null,
+    "lat": "18",
+    "lng": "105"
+  },
+  {
+    "id": 134,
+    "name": "Latvia",
+    "code": "LV",
+    "capital": "Riga",
+    "currency": null,
+    "lat": "57",
+    "lng": "25"
+  },
+  {
+    "id": 125,
+    "name": "Lebanon",
+    "code": "LB",
+    "capital": "Beirut",
+    "currency": null,
+    "lat": "33.83333333",
+    "lng": "35.83333333"
+  },
+  {
+    "id": 131,
+    "name": "Lesotho",
+    "code": "LS",
+    "capital": "Maseru",
+    "currency": null,
+    "lat": "-29.5",
+    "lng": "28.5"
+  },
+  {
+    "id": 126,
+    "name": "Liberia",
+    "code": "LR",
+    "capital": "Monrovia",
+    "currency": null,
+    "lat": "6.5",
+    "lng": "-9.5"
+  },
+  {
+    "id": 127,
+    "name": "Libya",
+    "code": "LY",
+    "capital": "Tripoli",
+    "currency": null,
+    "lat": "25",
+    "lng": "17"
+  },
+  {
+    "id": 129,
+    "name": "Liechtenstein",
+    "code": "LI",
+    "capital": "Vaduz",
+    "currency": null,
+    "lat": "47.26666666",
+    "lng": "9.53333333"
+  },
+  {
+    "id": 132,
+    "name": "Lithuania",
+    "code": "LT",
+    "capital": "Vilnius",
+    "currency": null,
+    "lat": "56",
+    "lng": "24"
+  },
+  {
+    "id": 133,
+    "name": "Luxembourg",
+    "code": "LU",
+    "capital": "Luxembourg",
+    "currency": null,
+    "lat": "49.75",
+    "lng": "6.16666666"
+  },
+  {
+    "id": 135,
+    "name": "Macau",
+    "code": "MO",
+    "capital": null,
+    "currency": null,
+    "lat": "22.16666666",
+    "lng": "113.55"
+  },
+  {
+    "id": 144,
+    "name": "Macedonia",
+    "code": "MK",
+    "capital": "Skopje",
+    "currency": null,
+    "lat": "41.83333333",
+    "lng": "22"
+  },
+  {
+    "id": 140,
+    "name": "Madagascar",
+    "code": "MG",
+    "capital": "Antananarivo",
+    "currency": null,
+    "lat": "-20",
+    "lng": "47"
+  },
+  {
+    "id": 156,
+    "name": "Malawi",
+    "code": "MW",
+    "capital": "Lilongwe",
+    "currency": null,
+    "lat": "-13.5",
+    "lng": "34"
+  },
+  {
+    "id": 157,
+    "name": "Malaysia",
+    "code": "MY",
+    "capital": "Kuala Lumpur",
+    "currency": null,
+    "lat": "2.5",
+    "lng": "112.5"
+  },
+  {
+    "id": 141,
+    "name": "Maldives",
+    "code": "MV",
+    "capital": "Malé",
+    "currency": null,
+    "lat": "3.25",
+    "lng": "73"
+  },
+  {
+    "id": 145,
+    "name": "Mali",
+    "code": "ML",
+    "capital": "Bamako",
+    "currency": null,
+    "lat": "17",
+    "lng": "-4"
+  },
+  {
+    "id": 146,
+    "name": "Malta",
+    "code": "MT",
+    "capital": "Valletta",
+    "currency": null,
+    "lat": "35.83333333",
+    "lng": "14.58333333"
+  },
+  {
+    "id": 143,
+    "name": "Marshall Islands",
+    "code": "MH",
+    "capital": "Majuro",
+    "currency": null,
+    "lat": "9",
+    "lng": "168"
+  },
+  {
+    "id": 154,
+    "name": "Martinique",
+    "code": "MQ",
+    "capital": "Fort-de-France",
+    "currency": null,
+    "lat": "14.666667",
+    "lng": "-61"
+  },
+  {
+    "id": 152,
+    "name": "Mauritania",
+    "code": "MR",
+    "capital": "Nouakchott",
+    "currency": null,
+    "lat": "20",
+    "lng": "-12"
+  },
+  {
+    "id": 155,
+    "name": "Mauritius",
+    "code": "MU",
+    "capital": "Port Louis",
+    "currency": null,
+    "lat": "-20.28333333",
+    "lng": "57.55"
+  },
+  {
+    "id": 158,
+    "name": "Mayotte",
+    "code": "YT",
+    "capital": "Mamoudzou",
+    "currency": null,
+    "lat": "-12.83333333",
+    "lng": "45.16666666"
+  },
+  {
+    "id": 142,
+    "name": "Mexico",
+    "code": "MX",
+    "capital": "Mexico City",
+    "currency": null,
+    "lat": "23",
+    "lng": "-102"
+  },
+  {
+    "id": 77,
+    "name": "Micronesia",
+    "code": "FM",
+    "capital": "Palikir",
+    "currency": null,
+    "lat": "6.91666666",
+    "lng": "158.25"
+  },
+  {
+    "id": 139,
+    "name": "Moldova",
+    "code": "MD",
+    "capital": "Chișinău",
+    "currency": null,
+    "lat": "47",
+    "lng": "29"
+  },
+  {
+    "id": 138,
+    "name": "Monaco",
+    "code": "MC",
+    "capital": "Monaco",
+    "currency": null,
+    "lat": "43.73333333",
+    "lng": "7.4"
+  },
+  {
+    "id": 149,
+    "name": "Mongolia",
+    "code": "MN",
+    "capital": "Ulan Bator",
+    "currency": null,
+    "lat": "46",
+    "lng": "105"
+  },
+  {
+    "id": 148,
+    "name": "Montenegro",
+    "code": "ME",
+    "capital": "Podgorica",
+    "currency": null,
+    "lat": "42.5",
+    "lng": "19.3"
+  },
+  {
+    "id": 153,
+    "name": "Montserrat",
+    "code": "MS",
+    "capital": "Plymouth",
+    "currency": null,
+    "lat": "16.75",
+    "lng": "-62.2"
+  },
+  {
+    "id": 137,
+    "name": "Morocco",
+    "code": "MA",
+    "capital": "Rabat",
+    "currency": null,
+    "lat": "32",
+    "lng": "-5"
+  },
+  {
+    "id": 151,
+    "name": "Mozambique",
+    "code": "MZ",
+    "capital": "Maputo",
+    "currency": null,
+    "lat": "-18.25",
+    "lng": "35"
+  },
+  {
+    "id": 147,
+    "name": "Myanmar",
+    "code": "MM",
+    "capital": "Naypyidaw",
+    "currency": null,
+    "lat": "22",
+    "lng": "98"
+  },
+  {
+    "id": 159,
+    "name": "Namibia",
+    "code": "NA",
+    "capital": "Windhoek",
+    "currency": null,
+    "lat": "-22",
+    "lng": "17"
+  },
+  {
+    "id": 169,
+    "name": "Nauru",
+    "code": "NR",
+    "capital": "Yaren",
+    "currency": null,
+    "lat": "-0.53333333",
+    "lng": "166.91666666"
+  },
+  {
+    "id": 168,
+    "name": "Nepal",
+    "code": "NP",
+    "capital": "Kathmandu",
+    "currency": null,
+    "lat": "28",
+    "lng": "84"
+  },
+  {
+    "id": 166,
+    "name": "Netherlands",
+    "code": "NL",
+    "capital": "Amsterdam",
+    "currency": null,
+    "lat": "52.5",
+    "lng": "5.75"
+  },
+  {
+    "id": 160,
+    "name": "New Caledonia",
+    "code": "NC",
+    "capital": "Nouméa",
+    "currency": null,
+    "lat": "-21.5",
+    "lng": "165.5"
+  },
+  {
+    "id": 170,
+    "name": "New Zealand",
+    "code": "NZ",
+    "capital": "Wellington",
+    "currency": null,
+    "lat": "-41",
+    "lng": "174"
+  },
+  {
+    "id": 164,
+    "name": "Nicaragua",
+    "code": "NI",
+    "capital": "Managua",
+    "currency": null,
+    "lat": "13",
+    "lng": "-85"
+  },
+  {
+    "id": 161,
+    "name": "Niger",
+    "code": "NE",
+    "capital": "Niamey",
+    "currency": null,
+    "lat": "16",
+    "lng": "8"
+  },
+  {
+    "id": 163,
+    "name": "Nigeria",
+    "code": "NG",
+    "capital": "Abuja",
+    "currency": null,
+    "lat": "10",
+    "lng": "8"
+  },
+  {
+    "id": 165,
+    "name": "Niue",
+    "code": "NU",
+    "capital": "Alofi",
+    "currency": null,
+    "lat": "-19.03333333",
+    "lng": "-169.86666666"
+  },
+  {
+    "id": 162,
+    "name": "Norfolk Island",
+    "code": "NF",
+    "capital": "Kingston",
+    "currency": null,
+    "lat": "-29.03333333",
+    "lng": "167.95"
+  },
+  {
+    "id": 181,
+    "name": "North Korea",
+    "code": "KP",
+    "capital": "Pyongyang",
+    "currency": null,
+    "lat": "40",
+    "lng": "127"
+  },
+  {
+    "id": 150,
+    "name": "Northern Mariana Islands",
+    "code": "MP",
+    "capital": "Saipan",
+    "currency": null,
+    "lat": "15.2",
+    "lng": "145.75"
+  },
+  {
+    "id": 167,
+    "name": "Norway",
+    "code": "NO",
+    "capital": "Oslo",
+    "currency": null,
+    "lat": "62",
+    "lng": "10"
+  },
+  {
+    "id": 171,
+    "name": "Oman",
+    "code": "OM",
+    "capital": "Muscat",
+    "currency": null,
+    "lat": "21",
+    "lng": "57"
+  },
+  {
+    "id": 172,
+    "name": "Pakistan",
+    "code": "PK",
+    "capital": "Islamabad",
+    "currency": null,
+    "lat": "30",
+    "lng": "70"
+  },
+  {
+    "id": 177,
+    "name": "Palau",
+    "code": "PW",
+    "capital": "Ngerulmud",
+    "currency": null,
+    "lat": "7.5",
+    "lng": "134.5"
+  },
+  {
+    "id": 184,
+    "name": "Palestine",
+    "code": "PS",
+    "capital": "Ramallah",
+    "currency": null,
+    "lat": "31.9",
+    "lng": "35.2"
+  },
+  {
+    "id": 173,
+    "name": "Panama",
+    "code": "PA",
+    "capital": "Panama City",
+    "currency": null,
+    "lat": "9",
+    "lng": "-80"
+  },
+  {
+    "id": 178,
+    "name": "Papua New Guinea",
+    "code": "PG",
+    "capital": "Port Moresby",
+    "currency": null,
+    "lat": "-6",
+    "lng": "147"
+  },
+  {
+    "id": 183,
+    "name": "Paraguay",
+    "code": "PY",
+    "capital": "Asunción",
+    "currency": null,
+    "lat": "-23",
+    "lng": "-58"
+  },
+  {
+    "id": 175,
+    "name": "Peru",
+    "code": "PE",
+    "capital": "Lima",
+    "currency": null,
+    "lat": "-10",
+    "lng": "-76"
+  },
+  {
+    "id": 176,
+    "name": "Philippines",
+    "code": "PH",
+    "capital": "Manila",
+    "currency": null,
+    "lat": "13",
+    "lng": "122"
+  },
+  {
+    "id": 174,
+    "name": "Pitcairn Islands",
+    "code": "PN",
+    "capital": "Adamstown",
+    "currency": null,
+    "lat": "-25.06666666",
+    "lng": "-130.1"
+  },
+  {
+    "id": 179,
+    "name": "Poland",
+    "code": "PL",
+    "capital": "Warsaw",
+    "currency": null,
+    "lat": "52",
+    "lng": "20"
+  },
+  {
+    "id": 182,
+    "name": "Portugal",
+    "code": "PT",
+    "capital": "Lisbon",
+    "currency": null,
+    "lat": "39.5",
+    "lng": "-8"
+  },
+  {
+    "id": 180,
+    "name": "Puerto Rico",
+    "code": "PR",
+    "capital": "San Juan",
+    "currency": null,
+    "lat": "18.25",
+    "lng": "-66.5"
+  },
+  {
+    "id": 186,
+    "name": "Qatar",
+    "code": "QA",
+    "capital": "Doha",
+    "currency": null,
+    "lat": "25.5",
+    "lng": "51.25"
+  },
+  {
+    "id": 47,
+    "name": "Republic of the Congo",
+    "code": "CG",
+    "capital": "Brazzaville",
+    "currency": null,
+    "lat": "-1",
+    "lng": "15"
+  },
+  {
+    "id": 187,
+    "name": "Réunion",
+    "code": "RE",
+    "capital": "Saint-Denis",
+    "currency": null,
+    "lat": "-21.15",
+    "lng": "55.5"
+  },
+  {
+    "id": 188,
+    "name": "Romania",
+    "code": "RO",
+    "capital": "Bucharest",
+    "currency": null,
+    "lat": "46",
+    "lng": "25"
+  },
+  {
+    "id": 189,
+    "name": "Russia",
+    "code": "RU",
+    "capital": "Moscow",
+    "currency": null,
+    "lat": "60",
+    "lng": "100"
+  },
+  {
+    "id": 190,
+    "name": "Rwanda",
+    "code": "RW",
+    "capital": "Kigali",
+    "currency": null,
+    "lat": "-2",
+    "lng": "30"
+  },
+  {
+    "id": 27,
+    "name": "Saint Barthélemy",
+    "code": "BL",
+    "capital": "Gustavia",
+    "currency": null,
+    "lat": "18.5",
+    "lng": "-63.41666666"
+  },
+  {
+    "id": 120,
+    "name": "Saint Kitts and Nevis",
+    "code": "KN",
+    "capital": "Basseterre",
+    "currency": null,
+    "lat": "17.33333333",
+    "lng": "-62.75"
+  },
+  {
+    "id": 128,
+    "name": "Saint Lucia",
+    "code": "LC",
+    "capital": "Castries",
+    "currency": null,
+    "lat": "13.88333333",
+    "lng": "-60.96666666"
+  },
+  {
+    "id": 136,
+    "name": "Saint Martin",
+    "code": "MF",
+    "capital": "Marigot",
+    "currency": null,
+    "lat": "18.08333333",
+    "lng": "-63.95"
+  },
+  {
+    "id": 202,
+    "name": "Saint Pierre and Miquelon",
+    "code": "PM",
+    "capital": "Saint-Pierre",
+    "currency": null,
+    "lat": "46.83333333",
+    "lng": "-56.33333333"
+  },
+  {
+    "id": 236,
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "capital": "Kingstown",
+    "currency": null,
+    "lat": "13.25",
+    "lng": "-61.2"
+  },
+  {
+    "id": 243,
+    "name": "Samoa",
+    "code": "WS",
+    "capital": "Apia",
+    "currency": null,
+    "lat": "-13.58333333",
+    "lng": "-172.33333333"
+  },
+  {
+    "id": 200,
+    "name": "San Marino",
+    "code": "SM",
+    "capital": "City of San Marino",
+    "currency": null,
+    "lat": "43.76666666",
+    "lng": "12.41666666"
+  },
+  {
+    "id": 205,
+    "name": "São Tomé and Príncipe",
+    "code": "ST",
+    "capital": "São Tomé",
+    "currency": null,
+    "lat": "1",
+    "lng": "7"
+  },
+  {
+    "id": 191,
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "capital": "Riyadh",
+    "currency": null,
+    "lat": "25",
+    "lng": "45"
+  },
+  {
+    "id": 193,
+    "name": "Senegal",
+    "code": "SN",
+    "capital": "Dakar",
+    "currency": null,
+    "lat": "14",
+    "lng": "-14"
+  },
+  {
+    "id": 203,
+    "name": "Serbia",
+    "code": "RS",
+    "capital": "Belgrade",
+    "currency": null,
+    "lat": "44",
+    "lng": "21"
+  },
+  {
+    "id": 212,
+    "name": "Seychelles",
+    "code": "SC",
+    "capital": "Victoria",
+    "currency": null,
+    "lat": "-4.58333333",
+    "lng": "55.66666666"
+  },
+  {
+    "id": 198,
+    "name": "Sierra Leone",
+    "code": "SL",
+    "capital": "Freetown",
+    "currency": null,
+    "lat": "8.5",
+    "lng": "-11.5"
+  },
+  {
+    "id": 194,
+    "name": "Singapore",
+    "code": "SG",
+    "capital": "Singapore",
+    "currency": null,
+    "lat": "1.36666666",
+    "lng": "103.8"
+  },
+  {
+    "id": 211,
+    "name": "Sint Maarten",
+    "code": "SX",
+    "capital": "Philipsburg",
+    "currency": null,
+    "lat": "18.033333",
+    "lng": "-63.05"
+  },
+  {
+    "id": 207,
+    "name": "Slovakia",
+    "code": "SK",
+    "capital": "Bratislava",
+    "currency": null,
+    "lat": "48.66666666",
+    "lng": "19.5"
+  },
+  {
+    "id": 208,
+    "name": "Slovenia",
+    "code": "SI",
+    "capital": "Ljubljana",
+    "currency": null,
+    "lat": "46.11666666",
+    "lng": "14.81666666"
+  },
+  {
+    "id": 197,
+    "name": "Solomon Islands",
+    "code": "SB",
+    "capital": "Honiara",
+    "currency": null,
+    "lat": "-8",
+    "lng": "159"
+  },
+  {
+    "id": 201,
+    "name": "Somalia",
+    "code": "SO",
+    "capital": "Mogadishu",
+    "currency": null,
+    "lat": "10",
+    "lng": "49"
+  },
+  {
+    "id": 245,
+    "name": "South Africa",
+    "code": "ZA",
+    "capital": "Pretoria",
+    "currency": null,
+    "lat": "-29",
+    "lng": "24"
+  },
+  {
+    "id": 195,
+    "name": "South Georgia",
+    "code": "GS",
+    "capital": "King Edward Point",
+    "currency": null,
+    "lat": "-54.5",
+    "lng": "-37"
+  },
+  {
+    "id": 121,
+    "name": "South Korea",
+    "code": "KR",
+    "capital": "Seoul",
+    "currency": null,
+    "lat": "37",
+    "lng": "127.5"
+  },
+  {
+    "id": 204,
+    "name": "South Sudan",
+    "code": "SS",
+    "capital": "Juba",
+    "currency": null,
+    "lat": "7",
+    "lng": "30"
+  },
+  {
+    "id": 69,
+    "name": "Spain",
+    "code": "ES",
+    "capital": "Madrid",
+    "currency": null,
+    "lat": "40",
+    "lng": "-4"
+  },
+  {
+    "id": 130,
+    "name": "Sri Lanka",
+    "code": "LK",
+    "capital": "Colombo",
+    "currency": null,
+    "lat": "7",
+    "lng": "81"
+  },
+  {
+    "id": 192,
+    "name": "Sudan",
+    "code": "SD",
+    "capital": "Khartoum",
+    "currency": null,
+    "lat": "15",
+    "lng": "30"
+  },
+  {
+    "id": 206,
+    "name": "Suriname",
+    "code": "SR",
+    "capital": "Paramaribo",
+    "currency": null,
+    "lat": "4",
+    "lng": "-56"
+  },
+  {
+    "id": 196,
+    "name": "Svalbard and Jan Mayen",
+    "code": "SJ",
+    "capital": "Longyearbyen",
+    "currency": null,
+    "lat": "78",
+    "lng": "20"
+  },
+  {
+    "id": 210,
+    "name": "Swaziland",
+    "code": "SZ",
+    "capital": "Lobamba",
+    "currency": null,
+    "lat": "-26.5",
+    "lng": "31.5"
+  },
+  {
+    "id": 209,
+    "name": "Sweden",
+    "code": "SE",
+    "capital": "Stockholm",
+    "currency": null,
+    "lat": "62",
+    "lng": "15"
+  },
+  {
+    "id": 41,
+    "name": "Switzerland",
+    "code": "CH",
+    "capital": "Bern",
+    "currency": null,
+    "lat": "47",
+    "lng": "8"
+  },
+  {
+    "id": 213,
+    "name": "Syria",
+    "code": "SY",
+    "capital": "Damascus",
+    "currency": null,
+    "lat": "35",
+    "lng": "38"
+  },
+  {
+    "id": 227,
+    "name": "Taiwan",
+    "code": "TW",
+    "capital": "Taipei",
+    "currency": null,
+    "lat": "23.5",
+    "lng": "121"
+  },
+  {
+    "id": 218,
+    "name": "Tajikistan",
+    "code": "TJ",
+    "capital": "Dushanbe",
+    "currency": null,
+    "lat": "39",
+    "lng": "71"
+  },
+  {
+    "id": 228,
+    "name": "Tanzania",
+    "code": "TZ",
+    "capital": "Dodoma",
+    "currency": null,
+    "lat": "-6",
+    "lng": "35"
+  },
+  {
+    "id": 217,
+    "name": "Thailand",
+    "code": "TH",
+    "capital": "Bangkok",
+    "currency": null,
+    "lat": "15",
+    "lng": "100"
+  },
+  {
+    "id": 221,
+    "name": "Timor-Leste",
+    "code": "TL",
+    "capital": "Dili",
+    "currency": null,
+    "lat": "-8.83333333",
+    "lng": "125.91666666"
+  },
+  {
+    "id": 216,
+    "name": "Togo",
+    "code": "TG",
+    "capital": "Lomé",
+    "currency": null,
+    "lat": "8",
+    "lng": "1.16666666"
+  },
+  {
+    "id": 219,
+    "name": "Tokelau",
+    "code": "TK",
+    "capital": "Fakaofo",
+    "currency": null,
+    "lat": "-9",
+    "lng": "-172"
+  },
+  {
+    "id": 222,
+    "name": "Tonga",
+    "code": "TO",
+    "capital": "Nuku'alofa",
+    "currency": null,
+    "lat": "-20",
+    "lng": "-175"
+  },
+  {
+    "id": 223,
+    "name": "Trinidad and Tobago",
+    "code": "TT",
+    "capital": "Port of Spain",
+    "currency": null,
+    "lat": "11",
+    "lng": "-61"
+  },
+  {
+    "id": 224,
+    "name": "Tunisia",
+    "code": "TN",
+    "capital": "Tunis",
+    "currency": null,
+    "lat": "34",
+    "lng": "9"
+  },
+  {
+    "id": 225,
+    "name": "Turkey",
+    "code": "TR",
+    "capital": "Ankara",
+    "currency": null,
+    "lat": "39",
+    "lng": "35"
+  },
+  {
+    "id": 220,
+    "name": "Turkmenistan",
+    "code": "TM",
+    "capital": "Ashgabat",
+    "currency": null,
+    "lat": "40",
+    "lng": "60"
+  },
+  {
+    "id": 214,
+    "name": "Turks and Caicos Islands",
+    "code": "TC",
+    "capital": "Cockburn Town",
+    "currency": null,
+    "lat": "21.75",
+    "lng": "-71.58333333"
+  },
+  {
+    "id": 226,
+    "name": "Tuvalu",
+    "code": "TV",
+    "capital": "Funafuti",
+    "currency": null,
+    "lat": "-8",
+    "lng": "178"
+  },
+  {
+    "id": 229,
+    "name": "Uganda",
+    "code": "UG",
+    "capital": "Kampala",
+    "currency": null,
+    "lat": "1",
+    "lng": "32"
+  },
+  {
+    "id": 230,
+    "name": "Ukraine",
+    "code": "UA",
+    "capital": "Kiev",
+    "currency": null,
+    "lat": "49",
+    "lng": "32"
+  },
+  {
+    "id": 8,
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "capital": "Abu Dhabi",
+    "currency": null,
+    "lat": "24",
+    "lng": "54"
+  },
+  {
+    "id": 79,
+    "name": "United Kingdom",
+    "code": "GB",
+    "capital": "London",
+    "currency": null,
+    "lat": "54",
+    "lng": "-2"
+  },
+  {
+    "id": 233,
+    "name": "United States",
+    "code": "US",
+    "capital": "Washington D.C.",
+    "currency": null,
+    "lat": "38",
+    "lng": "-97"
+  },
+  {
+    "id": 231,
+    "name": "United States Minor Outlying Islands",
+    "code": "UM",
+    "capital": null,
+    "currency": null,
+    "lat": "19.2911437",
+    "lng": "166.618332"
+  },
+  {
+    "id": 239,
+    "name": "United States Virgin Islands",
+    "code": "VI",
+    "capital": "Charlotte Amalie",
+    "currency": null,
+    "lat": "18.35",
+    "lng": "-64.933333"
+  },
+  {
+    "id": 232,
+    "name": "Uruguay",
+    "code": "UY",
+    "capital": "Montevideo",
+    "currency": null,
+    "lat": "-33",
+    "lng": "-56"
+  },
+  {
+    "id": 234,
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "capital": "Tashkent",
+    "currency": null,
+    "lat": "41",
+    "lng": "64"
+  },
+  {
+    "id": 241,
+    "name": "Vanuatu",
+    "code": "VU",
+    "capital": "Port Vila",
+    "currency": null,
+    "lat": "-16",
+    "lng": "167"
+  },
+  {
+    "id": 235,
+    "name": "Vatican City",
+    "code": "VA",
+    "capital": "Vatican City",
+    "currency": null,
+    "lat": "41.9",
+    "lng": "12.45"
+  },
+  {
+    "id": 237,
+    "name": "Venezuela",
+    "code": "VE",
+    "capital": "Caracas",
+    "currency": null,
+    "lat": "8",
+    "lng": "-66"
+  },
+  {
+    "id": 240,
+    "name": "Vietnam",
+    "code": "VN",
+    "capital": "Hanoi",
+    "currency": null,
+    "lat": "16.16666666",
+    "lng": "107.83333333"
+  },
+  {
+    "id": 242,
+    "name": "Wallis and Futuna",
+    "code": "WF",
+    "capital": "Mata-Utu",
+    "currency": null,
+    "lat": "-13.3",
+    "lng": "-176.2"
+  },
+  {
+    "id": 68,
+    "name": "Western Sahara",
+    "code": "EH",
+    "capital": "El Aaiún",
+    "currency": null,
+    "lat": "24.5",
+    "lng": "-13"
+  },
+  {
+    "id": 244,
+    "name": "Yemen",
+    "code": "YE",
+    "capital": "Sana'a",
+    "currency": null,
+    "lat": "15",
+    "lng": "48"
+  },
+  {
+    "id": 246,
+    "name": "Zambia",
+    "code": "ZM",
+    "capital": "Lusaka",
+    "currency": null,
+    "lat": "-15",
+    "lng": "30"
+  },
+  {
+    "id": 247,
+    "name": "Zimbabwe",
+    "code": "ZW",
+    "capital": "Harare",
+    "currency": null,
+    "lat": "-20",
+    "lng": "30"
+  }
+]
