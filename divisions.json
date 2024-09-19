@@ -6,37 +6,37 @@
   },
   {
     "id": 2,
-    "type": "Chattogram",
-    "name": "চট্টগ্রাম"
+    "name": "Chattogram",
+    "name_bn": "চট্টগ্রাম"
   },
   {
     "id": 3,
-    "type": "Barishal",
-    "name": "বরিশাল"
+    "name": "Barishal",
+    "name_bn": "বরিশাল"
   },
   {
     "id": 4,
-    "type": "Khulna",
-    "name": "খুলনা"
+    "name": "Khulna",
+    "name_bn": "খুলনা"
   },
   {
     "id": 5,
-    "type": "Rajshahi",
-    "name": "রাজশাহী"
+    "name": "Rajshahi",
+    "name_bn": "রাজশাহী"
   },
   {
     "id": 6,
-    "type": "Rangpur",
-    "name": "রংপুর"
+    "name": "Rangpur",
+    "name_bn": "রংপুর"
   },
   {
     "id": 7,
-    "type": "Sylhet",
-    "name": "সিলেট"
+    "name": "Sylhet",
+    "name_bn": "সিলেট"
   },
   {
     "id": 8,
-    "type": "Mymensingh",
-    "name": "ময়মনসিংহ"
+    "name": "Mymensingh",
+    "name_bn": "ময়মনসিংহ"
   }
 ]
