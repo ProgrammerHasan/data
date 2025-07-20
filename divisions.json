@@ -1,42 +1,66 @@
 [
-  {
-    "id": 1,
-    "name": "Dhaka",
-    "name_bn": "ঢাকা"
-  },
-  {
-    "id": 2,
-    "name": "Chattogram",
-    "name_bn": "চট্টগ্রাম"
-  },
-  {
-    "id": 3,
-    "name": "Barishal",
-    "name_bn": "বরিশাল"
-  },
-  {
-    "id": 4,
-    "name": "Khulna",
-    "name_bn": "খুলনা"
-  },
-  {
-    "id": 5,
-    "name": "Rajshahi",
-    "name_bn": "রাজশাহী"
-  },
-  {
-    "id": 6,
-    "name": "Rangpur",
-    "name_bn": "রংপুর"
-  },
-  {
-    "id": 7,
-    "name": "Sylhet",
-    "name_bn": "সিলেট"
-  },
-  {
-    "id": 8,
-    "name": "Mymensingh",
-    "name_bn": "ময়মনসিংহ"
-  }
+    {
+        "id": 1,
+        "name": "Dhaka",
+        "name_bn": "ঢাকা",
+        "lat": "23.810332",
+        "lng": "90.412518",
+        "website": "www.dhaka.gov.bd"
+    },
+    {
+        "id": 2,
+        "name": "Chattogram",
+        "name_bn": "চট্টগ্রাম",
+        "lat": "22.356851",
+        "lng": "91.783182",
+        "website": "www.chattogram.gov.bd"
+    },
+    {
+        "id": 3,
+        "name": "Barishal",
+        "name_bn": "বরিশাল",
+        "lat": "22.701002",
+        "lng": "90.353451",
+        "website": "www.barishal.gov.bd"
+    },
+    {
+        "id": 4,
+        "name": "Khulna",
+        "name_bn": "খুলনা",
+        "lat": "22.845641",
+        "lng": "89.540328",
+        "website": "www.khulna.gov.bd"
+    },
+    {
+        "id": 5,
+        "name": "Rajshahi",
+        "name_bn": "রাজশাহী",
+        "lat": "24.363589",
+        "lng": "88.624135",
+        "website": "www.rajshahi.gov.bd"
+    },
+    {
+        "id": 6,
+        "name": "Rangpur",
+        "name_bn": "রংপুর",
+        "lat": "25.743892",
+        "lng": "89.275227",
+        "website": "www.rangpur.gov.bd"
+    },
+    {
+        "id": 7,
+        "name": "Sylhet",
+        "name_bn": "সিলেট",
+        "lat": "24.894929",
+        "lng": "91.868706",
+        "website": "www.sylhet.gov.bd"
+    },
+    {
+        "id": 8,
+        "name": "Mymensingh",
+        "name_bn": "ময়মনসিংহ",
+        "lat": "24.747149",
+        "lng": "90.420273",
+        "website": "www.mymensingh.gov.bd"
+    }
 ]
